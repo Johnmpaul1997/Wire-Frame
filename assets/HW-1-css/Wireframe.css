@@ -23,7 +23,7 @@ nav{
 
 .content{
     height: 400px;
-    background-color: red;
+    background-color: #777;
 
 
 }
@@ -78,9 +78,9 @@ aside{
     background-color:#ebebeb;
     margin-left: 15px;
     margin-right: 15px;
-    height: 100%;
-    right: 15px; 
-    float: left;
+    height: 93%;
+    width: 44%;
+    float: right;
 }
 
 footer{
